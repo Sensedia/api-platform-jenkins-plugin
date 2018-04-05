@@ -8,7 +8,7 @@ Below we can see the three functions of the plugin. In few words, the function *
 ## Get Api Json
 Get the Api code, by Id. The **Id** can be seen at the Api URL on Sensedia API Platform Manager
 
-https:/manager-demov3.sensedia.com/api-manager/#/apis/overview/**204**/revisions/2147756
+https:{MANAGER-URL}/#/apis/overview/**204**/revisions/2147756
 
 • sensediaApiJson : int (ApiId)
 
